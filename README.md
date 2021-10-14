@@ -10,9 +10,13 @@
 - 📫 How to reach me **cavs1010@gmail.com**
 
 <h3 align="left">Check my previous projects:</h3>
-- Machine Learning
-- Data analytics/ Data Scienxe
-- Full Stack development
+<ul>
+  <li>Machine Learning</li><br>
+  
+  <li>Data analytics/ Data Science</li><br>
+  
+  <li>Full Stack development</li><br>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
