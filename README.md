@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cavs1010&label=Profile%20views&color=0e75b6&style=flat" alt="cavs1010" /> </p>
 
-- 🔭 I’m currently working on **Kaggle competition - predicting sales**
+- 🔭 I’m currently working on **my PhD in sustainability**
 
 - 🌱 I’m currently learning **Tensor flow and data analytics**
 
