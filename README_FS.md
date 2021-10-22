@@ -8,7 +8,7 @@
   <ul>
     <li><h4>javascript</h4>
       <ul>
-        <li>Workaround > javascript modules</li>
+        <li><a href='https://github.com/cavs1010/workaround'>Workaround > javascript modules</a></li>
       </ul>
     </li>
   </u>
