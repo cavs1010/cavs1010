@@ -6,7 +6,7 @@
 <ol>
   <h3><li>Basics:</li></h3>
     <ul>
-    <li><a href='https://github.com/cavs1010/insuranceModel'>Insurance model using TensorFlow</a></li>
+    <li><a href='https://github.com/cavs1010/insuranceModel'>Regression models using TensorFlow</a></li>
     </ul>
   <h3><li>Applied:</li></h3>
   <ul>
