@@ -7,7 +7,9 @@
   <h3><li>Basics:</li></h3>
     <ul>
     <li><a href='https://github.com/cavs1010/insuranceModel'>Regression models using TensorFlow</a></li>
+    <li><a href='https://github.com/cavs1010/calssification_tf'>Classification tasks using TensorFlow</a></li>
     </ul>
+  
   <h3><li>Applied:</li></h3>
   <ul>
     <li><a href='https://github.com/cavs1010/asphalt'>Pavements with plastic waste</a></li>
