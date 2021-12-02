@@ -12,6 +12,7 @@
         <li><a href='https://github.com/cavs1010/messagemixer'>Super encoder > javascript modules using node</a></li>
         <li><a href='https://github.com/cavs1010/find-your-hat-starting'>Find your hat > Working with node</a></li>
         <li><a href='https://github.com/cavs1010/rooster'>Rooster > Testing with Mocha</a></li>
+         <li><a href='https://github.com/cavs1010/rooster'>Wanderlust > Foursquare and OpenWeather API</a></li>
       </ul>
     </li>
   </u>
