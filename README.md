@@ -17,7 +17,7 @@
   
   <li><a href='https://github.com/cavs1010/cavs1010/blob/main/README_FS.md'>Full Stack development</li></a><br>
   
-  <li><a href='hhttps://github.com/cavs1010/cavs1010/blob/main/README_BC.md'>Block Chain</li></a><br>
+  <li><a href='https://github.com/cavs1010/cavs1010/blob/main/README_BC.md'>Block Chain</li></a><br>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
