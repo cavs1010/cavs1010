@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camilo</h1>
-<h3 align="center">I am passionate about web development, data science, and machine learning</h3>
+<h3 align="center">I am passionate about web development, data science, machine learning, and new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cavs1010&label=Profile%20views&color=0e75b6&style=flat" alt="cavs1010" /> </p>
 
