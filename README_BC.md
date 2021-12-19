@@ -6,7 +6,7 @@
 <ol>
   <h3><li>Basics:</li></h3>
     <ul>
-    <li><a href='https://github.com/cavs1010/insuranceModel'>Lottery project (sol. 0.8.9)</a></li>
+    <li><a href='https://github.com/cavs1010/02_lottery_updated'>Lottery project (sol. 0.8.9)</a></li>
     </ul>
   
   <h3><li>Applied:</li></h3>
