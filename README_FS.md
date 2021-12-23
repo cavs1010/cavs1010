@@ -13,7 +13,7 @@
         <li><a href='https://github.com/cavs1010/find-your-hat-starting'>Find your hat > Working with node</a></li>
         <li><a href='https://github.com/cavs1010/rooster'>Rooster > Testing with Mocha</a></li>
         <li><a href='https://github.com/cavs1010/wanderlust'>Wanderlust > Foursquare and OpenWeather API</a></li>
-        <li>Video Player > React Development</li>
+        <li><a href='https://github.com/cavs1010/video_player'>Video Player > React Development</a></li>
       </ul>
     </li>
   </u>
