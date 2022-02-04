@@ -18,7 +18,7 @@
     <li><h4>javascript - React</h4>
       <ul>
         <li><a href='https://github.com/cavs1010/video_player'>Video Player > React Implementation</a></li>
-        <li><a href='https://github.com/cavs1010/video_player'>Jammming - Spotify API > React States</a></li>
+        <li><a href='https://github.com/cavs1010/jammming'>Jammming - Spotify API > React States</a></li>
       </ul>
   </ul>
 </ol>
