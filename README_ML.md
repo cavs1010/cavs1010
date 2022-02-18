@@ -4,7 +4,7 @@
 
 
 <ol>
-  <h3><li>Basics:</li></h3>
+  <h3><li>Tensoflow:</li></h3>
     <ul>
     <li><a href='https://github.com/cavs1010/insuranceModel'>Regression models using TensorFlow</a></li>
     <li><a href='https://github.com/cavs1010/calssification_tf'>Classification tasks using TensorFlow</a></li>
