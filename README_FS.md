@@ -21,7 +21,7 @@
         <li><a href='https://github.com/cavs1010/jammming'>Jammming - Spotify API > React States</a></li>
         <li><a href='https://github.com/cavs1010/passing_thoughts'>Passing thoughts > Functional Componets</a></li>
         <li><a href='https://github.com/cavs1010/copycat'>Copycat</a></li>
-        <li><a href='https://github.com/cavs1010/copycat'>Adopt a pet</a></li>
+        <li><a href='https://github.com/cavs1010/04_Routing/tree/master/adopt-a-pet-starter'>Adopt a pet</a></li>
       </ul>
   </ul>
 </ol>
