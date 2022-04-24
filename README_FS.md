@@ -23,6 +23,7 @@
         <li><a href='https://github.com/cavs1010/copycat'>Copycat</a></li>
         <li><a href='https://github.com/cavs1010/04_Routing/tree/master/adopt-a-pet-starter'>Adopt a pet</a></li>
         <li><a href='https://github.com/cavs1010/05_Appoinment_Planner'>Appoinment Planner</a></li>
+        <li><a href='https://github.com/cavs1010/06_flash_cards'>Flash Card app</a></li>
       </ul>
   </ul>
 </ol>
