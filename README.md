@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camilo</h1>
-<h3 align="center">I am deeply committed to web development, as well as data science, machine learning, and other cutting-edge technologies. I am also obsessed with environmental issues and sustainability.</h3>
+<h3 align="center">I am deeply committed to web development, as well as data science, machine learning, and other cutting-edge technologies. I am also obsessed with environmental issues and sustainability⛺.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cavs1010&label=Profile%20views&color=0e75b6&style=flat" alt="cavs1010" /> </p>
 
