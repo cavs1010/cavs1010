@@ -6,6 +6,6 @@
 <ol>
   <h3><li>Pandas Utilization🐼</li></h3>
     <ul>
-    <li><a href='https://github.com/cavs1010/02_lottery_updated'>Jeopardy Game</a></li>
+    <li><a href='https://github.com/cavs1010/This-is-Jeopardy'>Jeopardy Game</a></li>
     </ul>
 </ol>
