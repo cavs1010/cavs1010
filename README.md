@@ -13,7 +13,7 @@
 <ul>
   <li><a href='https://github.com/cavs1010/cavs1010/blob/main/README_ML.md'>Machine Learning</li></a><br>
   
-  <li>Data analytics/ Data Science</li><br>
+  <li><a href='https://github.com/cavs1010/cavs1010/blob/main/README_DA.md'>Data analytics/ Data Science</a></li><br>
   
   <li><a href='https://github.com/cavs1010/cavs1010/blob/main/README_FS.md'>Full Stack development</li></a><br>
   
