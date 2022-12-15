@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Camilo</h1>
-<h3 align="center">I am deeply committed to web development, as well as data science, machine learning, and other cutting-edge technologies. I am also obsessed with environmental issues and sustainability⛺.</h3>
+<h1 align="center">Hi there👋, My name is Camilo</h1>
+<h3 align="center">I'm a PhD candidate in environmental engineering with a passion for data science and programming. In my current role as a PhD candidate, I've developed strong research and analysis skills🔬, and I'm excited to use them to make a positive impact. Whether it's working on cutting-edge machine learning projects, developing new algorithms, or applying my knowledge to solve environmental challenges, I'm eager to take on new challenges and make a difference.⛺.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cavs1010&label=Profile%20views&color=0e75b6&style=flat" alt="cavs1010" /> </p>
 
