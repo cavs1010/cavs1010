@@ -1,6 +1,6 @@
 <h1 align="center">🕵🏼Data analysis</h1>
 
-<h2 align='center'><em>"General data manipulation"</em></h2>
+<h2 align='center'><em>"Welcome to the part of my portfolio where data science meets Python - it's like a match made in heaven🌤️, or at least in a really cool Jupyter notebook."</em></h2>
 
 
 <ol>
