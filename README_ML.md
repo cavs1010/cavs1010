@@ -1,6 +1,6 @@
 <h1 align="center">🧠🦾Machine Learning Projects</h1>
 
-<h2 align='center'><em>"Machine learning models of different flavours"</em></h2>
+<h2 align='center'><em>""Enter the exciting world of machine learning - where algorithms and data collide to create magical models that can predict the future (or at least the next Netflix show you should watch).""</em></h2>
 
 
 <ol>
