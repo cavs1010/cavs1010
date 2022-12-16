@@ -1,6 +1,6 @@
 <h1 align="center">💻Full-Stack  Web development</h1>
 
-<h2 align='center'><em>"XXX"</em></h2>
+<h2 align='center'><em>"Welcome to the wild world of full stack web development - where front-end meets back-end, data science meets design, and machine learning meets user experience. It's like a three-ring circus of awesomeness, and I'm the ringleader (or at least a really talented clown)."</em></h2>
 
 
 <ol>
