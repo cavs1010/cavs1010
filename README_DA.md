@@ -5,5 +5,5 @@
 
 <ol>
     <li><a href='https://github.com/cavs1010/This-is-Jeopardy'>🎊Jeopardy Game</a></li>
-    <li><a href='https://github.com/cavs1010/This-is-Jeopardy'>🏀NBA Trends</a></li>
+    <li><a href='https://github.com/cavs1010/NBA_Trends/tree/main'>🏀NBA Trends</a></li>
 </ol>
