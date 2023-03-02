@@ -27,7 +27,7 @@
       </ul>
        <li><h4>Backend</h4>
       <ul>
-        <li><a href='https://github.com/cavs1010/ecommerce_REST_API'>Video Player > E-commerce RESTAPI</a></li>
+        <li><a href='https://github.com/cavs1010/ecommerce_REST_API'>E-commerce RESTAPI</a></li>
       </ul>
   </ul>
 </ol>
