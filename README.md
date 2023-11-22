@@ -11,6 +11,8 @@
 
 <h3 align="left">Check my previous projects:</h3>
 <ul>
+  <li><a href='https://github.com/cavs1010/cavs1010/blob/main/README_ML.md'>Python</li></a><br>
+  
   <li><a href='https://github.com/cavs1010/cavs1010/blob/main/README_ML.md'>Machine Learning</li></a><br>
   
   <li><a href='https://github.com/cavs1010/cavs1010/blob/main/README_DA.md'>Data analytics/ Data Science</a></li><br>
