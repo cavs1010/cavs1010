@@ -6,6 +6,6 @@
 
   <h3><li>Web Development and Automation:</li></h3>
   <ul>
-    <li><a href='https://github.com/cavs1010/web_scraping'>Web Scraping with BeautifulSoup and Requests</a></li>
+    <li><a href='https://github.com/cavs1010/100_Spotify'>Web Scraping with BeautifulSoup and Requests</a></li>
   </ul>
 </ol>
